@@ -8,3 +8,5 @@ Project intended to save your passwords. If you have the same problem, of not kn
 
 [es-es]
 Proyecto destinado a guardar sus contraseñas. Si tienes el mismo problema, de no saber o no querer utilizar programas de pago para gestionar tus contraseñas... Haz buen uso de este proyecto. En él registramos su contraseña encriptada, la cual solo puede ser desencriptada a través de una contraseña que usted crea pero no guarda en nuestro sistema, para que solo usted con su clave pueda desencriptar sus contraseñas guardadas.
+
+teste
